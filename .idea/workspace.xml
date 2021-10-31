@@ -16,9 +16,9 @@
       <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/base_library.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/warn-Gabarito.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/xref-Gabarito.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/dist/Gabarito.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Gabarito.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Gabarito.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Gabarito.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Gabarito.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
