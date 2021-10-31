@@ -1,0 +1,9 @@
+Abrir um projeto em usando virtualvenv
+
+Instalar as Bibliotecas
+pip install pandas
+pip install openpyxl
+pip install pywin32
+
+
+
