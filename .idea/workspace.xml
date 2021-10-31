@@ -2,28 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e64463b0-3d0c-48d8-afe7-d2c31381edcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Gabarito.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/Gabarito.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/Gabarito.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/Tree-02.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/warn-Gabarito.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/build/Gabarito/xref-Gabarito.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/dist/Gabarito.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/RelatorioVendas.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/imc.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/imc.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/warn-imc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/xref-imc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/dist/imc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/imc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venvImC/imc.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imc.py" beforeDir="false" afterPath="$PROJECT_DIR$/imc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/transf_ArqPythonExecutavel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/transf_ArqPythonExecutavel.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,5 +104,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venvImC/imc.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -10,7 +10,7 @@ pip install pyinstaller
 
 pyinstaller --onefile -w (-w se tiver alguma janela que interagir com janela)
 
-pyinstaller --onefile Gabarito.py 
+pyinstaller --onefile RelatorioVendas.py 
 
 
 Obs. Outlook deve estar instalado na maquina

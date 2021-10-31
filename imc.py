@@ -6,5 +6,3 @@ imc = peso / (altura * altura)
 
 print('Seu IMC é {}'.format(imc))
 
-//pip install cx_Freeze
-//cxfreeze imc.py --target-dir calculadora-imc
