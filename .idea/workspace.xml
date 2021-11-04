@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e64463b0-3d0c-48d8-afe7-d2c31381edcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/RelatorioVendas.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/Tree-02.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/imc.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/imc.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/warn-imc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/build/imc/xref-imc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/dist/imc.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/imc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venvImC/imc.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imc.py" beforeDir="false" afterPath="$PROJECT_DIR$/imc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/transf_ArqPythonExecutavel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/transf_ArqPythonExecutavel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/RelatorioVendas.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/RelatorioVendas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

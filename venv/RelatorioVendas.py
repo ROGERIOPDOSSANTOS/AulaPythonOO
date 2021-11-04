@@ -22,7 +22,7 @@ ticket_medio = (faturamento['Valor Final'] / quantidade['Quantidade']).to_frame(
 ticket_medio = ticket_medio.rename(columns={0: 'Ticket Médio'})
 print(ticket_medio)
 
-# enviar um email com o relatório
+# enviar um email com o relatório de Vendas
 outlook = win32.Dispatch('outlook.application')
 mail = outlook.CreateItem(0)
 mail.To = 'rogerio.dosantos@ifpr.edu.br'
