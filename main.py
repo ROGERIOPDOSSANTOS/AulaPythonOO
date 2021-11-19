@@ -1,3 +1,14 @@
+
+from clima.preco import aumento, reducao
+
+preco = 49
+preco_com_aumento = aumento(valor=preco, porcentagem=15)
+print(preco_com_aumento)
+
+preco = 49
+preco_com_reducao = reducao(valor=preco, porcentagem=15)
+print(preco_com_reducao)
+
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
