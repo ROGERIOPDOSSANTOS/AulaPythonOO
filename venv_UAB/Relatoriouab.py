@@ -2,15 +2,17 @@ import pandas as pd
 import win32com.client as win32
 
 # importar a base de dados
-tabela_bolsista = pd.read_excel('Relatório On-line de Atividades 2021 - UAB_IFRO (respostas).xlsx')
+tabela_bolsista = pd.read_excel('Relatório On-line de Atividades 2021 - UAB_IFRO (respostas)2.xlsx')
 
 # visualizar a base de dados
 pd.set_option('display.max_columns', None)
 print(tabela_bolsista)
 
 # Relatorio por bolsista
-bolsistas = tabela_bolsista[['Nome do(a) bolsista:', 'Identifique o mês de referência:']].groupby('Nome do(a) bolsista:').sum()
+bolsistas = tabela_bolsista[['Nome do(a) bolsista:', 'Identifique o mês de referência:']].groupby('Identifique o mês de referência:',NOVEMBRO/2021).sum()
 print(bolsistas)
+df.groupby('Identifique o mês de referência:')
+
 
 # quantidade de produtos vendidos por loja
 #quantidade = tabela_vendas[['ID Loja', 'Quantidade']].groupby('ID Loja').sum()
