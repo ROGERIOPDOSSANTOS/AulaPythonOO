@@ -1,57 +1,58 @@
 class Conta:
-    def __init__(self, numero, titular, saldo, limite):
-        print("Construindo objeto ... {}".format(self))
-        self.__numero = numero
-        self.__titular = titular
-        self.__saldo = saldo
-        self.__limite = limite
+    def __init__(self,numero, titular, saldo, limite):
+        print("Construindo classe-objeto ... {}".format(self))
+        self.numero = numero
+        self.titular = titular
+        self.saldo = saldo
+        self.limite = limite
 
     def extrato(self):
-        print("Saldo de {} do titular {}".format(self.__saldo, self.__titular))
-
+        print("Saldo de {} do titular {}".format(self.saldo, self.titular))
     def deposita(self, valor):
-        self.__saldo += valor
-
-    def saca(self, valor):
-        self.__saldo -= valor
-
+        self.saldo += valor
+    def sacar(self, valor):
+        self.saldo -= valor
     def transfere(self, valor, destino):
-        self.saca(valor)
+        self.sacar(valor)
         destino.deposita(valor)
 
     def pega_saldo(self):
-        return self.__saldo
+        return self.saldo
 
     def devolve_titular(self):
-        return self.__titular
+        return self.titular
 
     def retorna_limite(self):
-        return self.__limite
+        return self.limite
 
     def get_saldo(self):
-        return self.__saldo
+        return self.saldo
 
     def get_titular(self):
-        return self.__titular
+        return self.titular
 
     def get_limite(self):
-        return self.__limite
+        return self.limite
 
     def  set_limite(self, limite):
-        self.__limite = limite
+        self.limite = limite
 
     @property
     def saldo(self):
-        return self.__saldo
+        return self.saldo
 
     @property
     def titular(self):
-        return self.__titular
+        return self.titular
 
     @property
     def limite(self):
-        return self.__limite
+        return self.limite
 
     @limite.setter
     def limite(self, limite):
-        self.__limite = limite
+        self.limite = limite
+
+    @saldo.setter
+    def saldo(self, value):
+        self._saldo = value
