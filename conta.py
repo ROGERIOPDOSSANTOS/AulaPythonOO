@@ -24,11 +24,8 @@ class Conta:
 
 
 
-
-
     def get_saldo(self):
         return self.saldo
-
     def get_titular(self):
         return self.titular
 
