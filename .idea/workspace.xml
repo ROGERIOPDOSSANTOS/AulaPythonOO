@@ -32,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/conta.py" />
   </component>
   <component name="RunManager" selected="Python.conta">
     <configuration name="Aula03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

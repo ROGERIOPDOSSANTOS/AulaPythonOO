@@ -5,7 +5,6 @@ class Conta:
         self.titular = titular
         self.saldo = saldo
         self.limite = limite
-
     def extrato(self):
         print("Saldo de {} do titular {}".format(self.saldo, self.titular))
     def deposita(self, valor):
@@ -15,13 +14,10 @@ class Conta:
     def transfere(self, valor, destino):
         self.sacar(valor)
         destino.deposita(valor)
-
     def pega_saldo(self):
         return self.saldo
-
     def devolve_titular(self):
         return self.titular
-
     def retorna_limite(self):
         return self.limite
 
