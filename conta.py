@@ -14,12 +14,17 @@ class Conta:
     def transfere(self, valor, destino):
         self.sacar(valor)
         destino.deposita(valor)
+        #akljsklajslkasjklkjalsjkaljkas
     def pega_saldo(self):
         return self.saldo
     def devolve_titular(self):
         return self.titular
     def retorna_limite(self):
         return self.limite
+
+
+
+
 
     def get_saldo(self):
         return self.saldo
@@ -29,6 +34,11 @@ class Conta:
 
     def get_limite(self):
         return self.limite
+
+
+
+
+
 
     def  set_limite(self, limite):
         self.limite = limite
