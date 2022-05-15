@@ -14,7 +14,6 @@ class Conta:
     def transfere(self, valor, destino):
         self.sacar(valor)
         destino.deposita(valor)
-        #akljsklajslkasjklkjalsjkaljkas
     def pega_saldo(self):
         return self.saldo
     def devolve_titular(self):
